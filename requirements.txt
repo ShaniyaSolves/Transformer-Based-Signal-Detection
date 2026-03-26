@@ -1,0 +1,9 @@
+torch
+transformers
+peft
+astropy
+matplotlib
+numpy
+librosa
+stingray
+pandas
