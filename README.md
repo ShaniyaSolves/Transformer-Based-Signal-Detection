@@ -1,10 +1,6 @@
-# Transformer-Based-Signal-Detection
-Transformer-based classification of time-series data using a Whisper encoder, applied to detecting periodic signals in simulated astrophysical light curves. Includes physics-based data generation, signal analysis (FAP/SNR), and parameter-efficient fine-tuning (LoRA/DoRA).
-
-
 # Transformer-Based Signal Detection for AGN Light Curves
 
-This project applies a **pretrained Whisper transformer (audio model)** to classify astrophysical time-series data. The goal is to detect periodic signals from **binary supermassive black hole (SMBH) systems** embedded in noisy AGN light curves. 
+This project applies a **pretrained Whisper transformer (audio model)** to classify astrophysical time-series data. The goal is to detect periodic signals from **binary supermassive black hole (SMBH) systems** embedded in noisy AGN light curves. It includes physics-based data generation, signal analysis (FAP/SNR), and parameter-efficient fine-tuning (LoRA/DoRA).
 
 ---
 
